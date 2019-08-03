@@ -1,6 +1,8 @@
 ### Describe the bug
 
 How does the program work in its current state? A clear and concise description of what you expected to happen.
+Template: <Location/Module> <Problem> + <Action> 
+e.g:[Login Page]: Missing the Login button when we refesh this page
 
 ### Steps to reproduce
 
@@ -8,6 +10,9 @@ How does the program work in its current state? A clear and concise description 
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+
+### Observered behaviour
+What problem/errors did you see after the last step?
 
 ### Expected behaviour
 
